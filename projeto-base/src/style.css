@@ -3,3 +3,11 @@
     object-position: 0 80%;
     height: 400px;
 }
+
+.title-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.special-color {
+    color: darkred;
+}
