@@ -4,10 +4,32 @@
     height: 400px;
 }
 
+.img-carousel-two {
+    object-fit: cover;
+    height: 400px;
+}
+
 .title-font {
     font-family: 'Pacifico', cursive;
 }
 
 .special-color {
-    color: darkred;
+    color: darkred!important;
+}
+
+/* Cards */
+.img-cards {
+    object-fit: cover;
+    height: 200px;
+}
+.card {
+    max-width: 18rem;
+}
+.btn-special-color {
+    background-color: darkred;
+    color: white;
+}
+
+.border-special-color {
+    border-color: darkred;
 }
